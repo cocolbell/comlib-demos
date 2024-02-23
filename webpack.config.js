@@ -6,10 +6,7 @@ module.exports = {
     rules: [
       {
         test: /\.vue$/,
-        use: path.resolve(__dirname, "./node_modules/vue-loader"),
-        options: {
-          reactivityTransform: true,
-        }
+        use: path.resolve(__dirname, "./node_modules/vue-loader")
       },
     ]
   },

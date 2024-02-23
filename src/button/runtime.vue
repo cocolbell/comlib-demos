@@ -23,6 +23,7 @@ const handleClick = () => {
 </script>
 
 <style lang="less" scoped>
+@import "primevue/resources/themes/md-light-indigo/theme.css";
 .button {
   
 }

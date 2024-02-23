@@ -2,7 +2,6 @@
   "domain": "https://my.mybricks.world",
   "email": "goodhawk@gmail.com",
   "namespace": "dty-primevue-comlib-element",
-  "pxToVw": {},
   "componentType": "PC",
   "comAry": [
     "./src/_muilt-inputJs/com.json",
