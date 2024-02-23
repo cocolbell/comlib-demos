@@ -1,6 +1,6 @@
 export default {
   "@init"({ style }) {
-    style.width = "100%";
+    style.width = "fit-content";
     style.height = "auto";
   },
   "@resize": {

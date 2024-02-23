@@ -1,5 +1,5 @@
 <template>
-  <Button class="mybricks-button" :label="props.data.text" @click="handleClick" />
+  <Button class="mybricks-button button" :label="props.data.text" @click="handleClick" />
 </template>
 
 <script setup>
@@ -25,7 +25,8 @@ const handleClick = () => {
 <style lang="less" scoped>
 @import "primevue/resources/themes/md-light-indigo/theme.css";
 .button {
-  
+  width: 100%;
+  height: 100%;
 }
 
 </style>
