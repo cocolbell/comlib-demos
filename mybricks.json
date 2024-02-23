@@ -1,0 +1,18 @@
+{
+  "domain": "https://my.mybricks.world",
+  "email": "goodhawk@gmail.com",
+  "namespace": "dty-primevue-comlib-element",
+  "pxToVw": {},
+  "componentType": "PC",
+  "comAry": [
+    "./src/_muilt-inputJs/com.json",
+    {
+      "title": "基础",
+      "comAry": [
+        "./src/button/com.json"
+      ]
+    }
+  ],
+  "userName": "goodhawk@gmail.com",
+  "tags": "vue3"
+}
